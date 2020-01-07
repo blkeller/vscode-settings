@@ -1,0 +1,16 @@
+{
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.insertSpaces": false,
+  "editor.renderWhitespace": "all",
+  "editor.scrollBeyondLastLine": false,
+  "files.watcherExclude": {
+    "**/dist/**": true,
+    "**/tmp/**": true
+  },
+  "search.usePCRE2": true,
+  "telemetry.enableTelemetry": false,
+  "workbench.settings.useSplitJSON": true,
+  "workbench.statusBar.feedback.visible": false,
+  "yaml.format.enable": true,
+  "workbench.startupEditor": "none"
+}
