@@ -5,5 +5,7 @@ jacobx1.code-email-pocketknife
 jamiewoodio.junos
 mrmlnc.vscode-apache
 redhat.vscode-yaml
+samuelcolvin.jinjahtml
 slevesque.vscode-hexdump
+william-voyek.vscode-nginx
 yzhang.markdown-all-in-one

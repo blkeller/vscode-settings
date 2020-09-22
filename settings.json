@@ -12,5 +12,7 @@
   "workbench.settings.useSplitJSON": true,
   "workbench.statusBar.feedback.visible": false,
   "yaml.format.enable": true,
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "yaml.validate": false,
+  "yaml.schemaStore.enable": false
 }
