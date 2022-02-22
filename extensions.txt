@@ -1,10 +1,10 @@
 adamhartford.vscode-base64
+coolbear.systemd-unit-file
 eriklynd.json-tools
 flesler.url-encode
 jacobx1.code-email-pocketknife
 jamiewoodio.junos
 mrmlnc.vscode-apache
-redhat.vscode-yaml
 samuelcolvin.jinjahtml
 slevesque.vscode-hexdump
 william-voyek.vscode-nginx
