@@ -18,3 +18,5 @@ Install extensions from list in file:
 ```console
 $ while read ext; do code --install-extension "$ext"; done < extensions.txt
 ```
+
+On Linux, the settings file path is `~/.config/Code/User/settings.json`.
