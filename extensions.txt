@@ -1,11 +1,13 @@
 adamhartford.vscode-base64
+adzero.vscode-sievehighlight
 coolbear.systemd-unit-file
+DotJoshJohnson.xml
 eriklynd.json-tools
 flesler.url-encode
 jacobx1.code-email-pocketknife
 jamiewoodio.junos
 mrmlnc.vscode-apache
+ms-vscode.hexeditor
 samuelcolvin.jinjahtml
-slevesque.vscode-hexdump
 william-voyek.vscode-nginx
 yzhang.markdown-all-in-one
